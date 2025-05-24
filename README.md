@@ -3,7 +3,8 @@
 Borjan Mihajlov 232044
 ---
 ## Control Flow Graph
-![image](https://github.com/user-attachments/assets/5fb32416-46b9-49e6-996a-eb1d1e8751d0)
+![image](https://github.com/user-attachments/assets/6ce537ec-8713-4b26-a510-f33fac217c01)
+
 
 ## Цикломатска комплексност
 Цикломатската комплексност на овој код е 9, истата ја добив преку формулата P+1, каде што P е бројот на предикатни јазли (обоени со темно сина боја). Во случајoв P=8, па цикломатската комплексност изнесува 9.
